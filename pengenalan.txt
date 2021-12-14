@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>Biodata</title>
+    </head>
+    <body>
+      <center> <h1>Biodata Aini</h1></center> 
+        <center><img src="aini.jpeg" alt="Trulli" width="200" height="200"></center> 
+        <center>Nama : Nur Aini ABdul Awahab@Wahab</center>
+        <center>Umur : 21 Tahun</center>
+    </body>
+    </html>
